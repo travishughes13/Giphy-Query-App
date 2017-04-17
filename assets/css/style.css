@@ -1,0 +1,112 @@
+body {
+	background-image: url('../images/background7.jpg');
+	font-family: 'Righteous', cursive;
+}
+
+.newgif {
+	float: right;
+	margin-top: 13px;
+	margin-left: 3px;
+	background-color: transparent;
+	color: limegreen;
+	border-color: limegreen;
+}
+
+#main {
+	min-height: 1100px;
+	max-height: 100%;
+	background-color: transparent;
+}
+
+#title {
+	text-align: center;
+}
+
+#button {
+	margin-bottom: 10px;
+	float: left;
+	background-color: black;
+	color: limegreen;
+	border-color: limegreen;
+	font-family: 'Righteous', cursive;
+}
+
+#sloth {
+	margin-left: 55px;
+}
+
+#freedom {
+	background-color: transparent;
+	height: 900px;
+}
+
+#frog {
+	background-image: url('../images/background6.png');
+	height: 248px;
+}
+
+#gif {
+	height: 200px;
+	width: 200px;
+	margin-right: 15px;
+}
+
+#rating {
+	height: 25px;
+	width: 200px;
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	background-color: black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: limegreen;
+	color: limegreen;
+}
+
+button {
+	width: 80px;
+	margin-right: 15px;
+}
+
+/*This is the footer properties*/
+
+footer {
+	width: 100%;
+	color: limegreen;
+	background-color: black;
+	padding-top: 15px;
+	height: 55px;
+	border-top-color: limegreen;
+	border-top-width: 5px;
+	text-align: center;
+	border-top-style: solid;
+	bottom: 0px;
+	position: relative;
+	font-family: 'Righteous', cursive;
+}
+
+
+/*This controls the navbar - it is not important*/
+.navbar-default {
+	background-image: transparent;
+	border-bottom-color: black;
+	border-bottom-width: 2px;
+	border-top-color: black;
+	border-left-color: black;
+	border-right-color: black;
+	font-family: 'Righteous', cursive;
+}
+
+.navbar-brand {
+	background-color: transparent;
+	font-family: 'Righteous', cursive;
+	font-size: 20px;
+}
+
+.navbar {
+	background-color: transparent;
+	border-style: solid;
+	border-color: limegreen;
+	border-width: 2px;
+}
